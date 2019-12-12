@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">alllibrary</string>
+    <string name="authority">com.autotradetech.alllibrary.provider</string>
+</resources>
